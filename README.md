@@ -1,6 +1,3 @@
-# docs
-Hiero Docs.
-
 # 🤖 Hiero AI
 
 Your personal Web3 AI assistant that helps you navigate the blockchain world with ease!
