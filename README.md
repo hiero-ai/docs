@@ -59,7 +59,7 @@
 
 ## Community & Support
 
-- **Twitter** – Follow us on [Twitter][(https://x.com/HieroTerminal)] for announcements, tips, and community news.
+- **Twitter** – Follow us on [Twitter](https://x.com/HieroHQ) for announcements, tips, and community news.
 - **Telegram** - Drop us a message at: [Telegram](https://t.me/hiero_ai).
 - **GitHub** – Explore our open-source repositories on [GitHub](https://github.com/hiero-ai).  
 
