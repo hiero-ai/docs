@@ -1,4 +1,4 @@
-# Hiero
+# Hiero Terminal
 
 > **Your intelligent multi-chain co-pilot for Solana and Base.**  
 > Seamlessly navigate the crypto space, manage tokens, engage on social media, and stay informed.
