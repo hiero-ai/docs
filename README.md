@@ -34,7 +34,7 @@
 
 **Solana Operations** ⚡
 - Deploy new tokens and NFT collections
-- Trade tokens via Jupiter Exchange
+- Trade / SWAP tokens
 - Register and manage .sol domains
 - Create TipLinks for easy token sharing
 - Stake SOL for yield
