@@ -7,13 +7,13 @@
 
 ## Table of Contents
 
-1. [Overview](#overview)  
-2. [Key Features](#key-features)  
-   - [Blockchain Operations](#blockchain-operations)  
-   - [Twitter Integration](#twitter-integration)  
-   - [Research & Information](#research--information)  
-   - [Smart Memory & Communication](#smart-memory--communication)  
-3. [Community & Support](#community--support)  
+1. [Overview](#overview)
+2. [Key Features](#key-features)
+   - [Blockchain Operations](#blockchain-operations)
+   - [Twitter Integration](#twitter-integration)
+   - [Research & Information](#research--information)
+   - [Smart Memory & Communication](#smart-memory--communication)
+3. [Community & Support](#community--support)
 
 ---
 
@@ -28,11 +28,13 @@
 ### Blockchain Operations
 
 **Base Network Operations** 🔷
+
 - Check native and ERC20 token balances
 - Transfer ETH and ERC20 tokens
 - Execute token transfers on behalf of approved addresses
 
 **Solana Operations** ⚡
+
 - Deploy new tokens and NFT collections
 - Trade / SWAP tokens
 - Register and manage .sol domains
@@ -42,18 +44,28 @@
 - Check wallet balances and transfer SOL/SPL tokens
 
 ### Twitter Integration
+
 - Create, reply to, and quote tweets
 - Search Twitter content and monitor specific accounts
 - Engage with content through likes and retweets
 - Track user tweets and conversations
 
 ### Research & Information
+
 - Search and analyze with access to data from multiple sources
-  
+
 ### Smart Memory & Communication
+
 - Track conversation context and user interests
 - Program automated tasks
 - Maintain contextual awareness across interactions
+
+### Automation
+
+- Create and manage automated tasks
+- Schedule tasks to run at specific times
+- Monitor task status and results (coming soon)
+- find more info [here](./tasks.md)
 
 ---
 
@@ -61,6 +73,6 @@
 
 - **Twitter** – Follow us on [Twitter](https://x.com/HieroHQ) for announcements, tips, and community news.
 - **Telegram** - Drop us a message at: [Telegram](https://t.me/hiero_ai).
-- **GitHub** – Explore our open-source repositories on [GitHub](https://github.com/hiero-ai).  
+- **GitHub** – Explore our open-source repositories on [GitHub](https://github.com/hiero-ai).
 
 If you have any questions, feature requests, or just want to say hello, feel free to reach out! We’re building Hiero together with the community, one block at a time.
