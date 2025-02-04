@@ -1,6 +1,14 @@
 # Tasks in Hiero
 
 Tasks allow you to automate actions based on specific triggers or schedules. You can set up tasks to execute automatically when certain conditions are met or on a recurring schedule.
+Tasks can do anything hiero can do, except for setting up new tasks.
+
+### TLDR;
+
+Try these prompts to get started:
+
+- `"every 5 minutes, tweet a new joke"`
+- `"whenever @HieroTerminal tweets, like the tweet and retweet it"`
 
 ## Task Configuration
 
